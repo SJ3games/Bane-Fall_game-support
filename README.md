@@ -1,2 +1,1 @@
-Bane-Fall Support
-report issues and bugs in Discussions
+Bane-Fall report issues in Discussions
